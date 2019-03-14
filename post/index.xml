@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 优事威博客</title>
+    <link>https://usvim.com/post/</link>
+    <description>Recent content in Posts on 优事威博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 01 Mar 2019 19:37:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://usvim.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://usvim.com/post/hello-world/</link>
+      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://usvim.com/post/hello-world/</guid>
+      <description>欢迎光临</description>
+    </item>
+    
+  </channel>
+</rss>
