@@ -6,9 +6,64 @@
     <description>Recent content in Categories on 优事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Mar 2019 10:02:29 +0000</lastBuildDate>
     
 	<atom:link href="https://usvim.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Belles Lettres</title>
+      <link>https://usvim.com/categories/belles-lettres/</link>
+      <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/belles-lettres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essay</title>
+      <link>https://usvim.com/categories/essay/</link>
+      <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://usvim.com/categories/hardware/</link>
+      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://usvim.com/categories/paper/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://usvim.com/categories/programming/</link>
+      <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://usvim.com/categories/web/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://usvim.com/categories/web/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
