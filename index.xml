@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>优事威博客</title>
-    <link>https://usvim.com/</link>
+    <link>https://www.usvim.com/</link>
     <description>Recent content on 优事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 08 Mar 2019 19:37:38 +0000</lastBuildDate>
     
-        <atom:link href="https://usvim.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.usvim.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Git</title>
-      <link>https://usvim.com/post/hello-git/</link>
+      <link>https://www.usvim.com/post/hello-git/</link>
       <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/hello-git/</guid>
+      <guid>https://www.usvim.com/post/hello-git/</guid>
       
         <description>
 
@@ -33,10 +33,10 @@
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://usvim.com/post/hello-hugo/</link>
+      <link>https://www.usvim.com/post/hello-hugo/</link>
       <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/hello-hugo/</guid>
+      <guid>https://www.usvim.com/post/hello-hugo/</guid>
       
         <description>
 
@@ -53,10 +53,10 @@
     
     <item>
       <title>THE EDGE OF SHOAL</title>
-      <link>https://usvim.com/post/the-edge-of-shuoal/</link>
+      <link>https://www.usvim.com/post/the-edge-of-shuoal/</link>
       <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://usvim.com/post/the-edge-of-shuoal/</guid>
+      <guid>https://www.usvim.com/post/the-edge-of-shuoal/</guid>
       
         <description>&lt;p&gt;by Cynan Jones&lt;/p&gt;
 
@@ -551,10 +551,10 @@
     
     <item>
       <title>树莓派使用</title>
-      <link>https://usvim.com/post/raspberry-pi/</link>
+      <link>https://www.usvim.com/post/raspberry-pi/</link>
       <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/raspberry-pi/</guid>
+      <guid>https://www.usvim.com/post/raspberry-pi/</guid>
       
         <description>
 
@@ -904,10 +904,10 @@ supervisorctl stop frpc
     
     <item>
       <title>Emacs安装配置</title>
-      <link>https://usvim.com/post/emacs-install/</link>
+      <link>https://www.usvim.com/post/emacs-install/</link>
       <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
       
-      <guid>https://usvim.com/post/emacs-install/</guid>
+      <guid>https://www.usvim.com/post/emacs-install/</guid>
       
         <description>
 
@@ -951,10 +951,10 @@ supervisorctl stop frpc
     
     <item>
       <title>Markdown</title>
-      <link>https://usvim.com/post/markdown/</link>
+      <link>https://www.usvim.com/post/markdown/</link>
       <pubDate>Sun, 17 Feb 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/markdown/</guid>
+      <guid>https://www.usvim.com/post/markdown/</guid>
       
         <description>
 
@@ -1216,7 +1216,7 @@ See my [markdown](/#!markdown.md) page for details.
 
 &lt;p&gt;&lt;a href=&#34;http://example.net/&#34;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
 
-&lt;p&gt;See my &lt;a href=&#34;https://usvim.com/#!markdown.md&#34;&gt;markdown&lt;/a&gt; page for details.&lt;/p&gt;
+&lt;p&gt;See my &lt;a href=&#34;https://www.usvim.com/#!markdown.md&#34;&gt;markdown&lt;/a&gt; page for details.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;This is [an example][id] reference-style link.
 &lt;/code&gt;&lt;/pre&gt;
@@ -1305,10 +1305,10 @@ _   底线
     
     <item>
       <title>银行系与基金系QDII的比较研究</title>
-      <link>https://usvim.com/post/comparative-research-on-qdii-from-banks-and-funds/</link>
+      <link>https://www.usvim.com/post/comparative-research-on-qdii-from-banks-and-funds/</link>
       <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/comparative-research-on-qdii-from-banks-and-funds/</guid>
+      <guid>https://www.usvim.com/post/comparative-research-on-qdii-from-banks-and-funds/</guid>
       
         <description>
 
@@ -1460,10 +1460,10 @@ _   底线
     
     <item>
       <title>母亲与中华花艺</title>
-      <link>https://usvim.com/post/mather-and-floriculture/</link>
+      <link>https://www.usvim.com/post/mather-and-floriculture/</link>
       <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://usvim.com/post/mather-and-floriculture/</guid>
+      <guid>https://www.usvim.com/post/mather-and-floriculture/</guid>
       
         <description>&lt;p&gt;&lt;html&gt;
 &lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;298&#34; height=&#34;52&#34; src=&#34;//music.163.com/outchain/player?type=2&amp;id=28124255&amp;auto=0&amp;height=32&#34;&gt;&lt;/iframe&gt;
@@ -1496,10 +1496,10 @@ _   底线
     
     <item>
       <title>GitHub Hexo Next搭建博客</title>
-      <link>https://usvim.com/post/github-hexo-next/</link>
+      <link>https://www.usvim.com/post/github-hexo-next/</link>
       <pubDate>Wed, 26 Dec 2018 20:12:41 +0000</pubDate>
       
-      <guid>https://usvim.com/post/github-hexo-next/</guid>
+      <guid>https://www.usvim.com/post/github-hexo-next/</guid>
       
         <description>
 
@@ -1602,10 +1602,10 @@ hexo d
     
     <item>
       <title>Hello World</title>
-      <link>https://usvim.com/post/hello-world/</link>
+      <link>https://www.usvim.com/post/hello-world/</link>
       <pubDate>Wed, 26 Dec 2018 19:37:38 +0000</pubDate>
       
-      <guid>https://usvim.com/post/hello-world/</guid>
+      <guid>https://www.usvim.com/post/hello-world/</guid>
       
         <description>
 

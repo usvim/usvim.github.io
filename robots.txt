@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://usvim.com/sitemap.xml
+Sitemap: https://www.usvim.com/sitemap.xml
